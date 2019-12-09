@@ -1,4 +1,4 @@
-package Logic;
+package model;
 
 public class Book {
 
